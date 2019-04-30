@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <Wrapper>
-      <Hello name="Noah" />
+      <Hello name="There" />
       <Form onSubmit={x => console.log("app received First Name")}/>
     </Wrapper>
   );
